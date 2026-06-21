@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.5/IPTV.apk",
-  "changelog": "Pantalla completa de canales sin micro-corte ni video fantasma, reproductor de series con capitulo anterior/siguiente y autoplay, continuar serie, Mi cuenta, no suena en segundo plano, confirmacion al salir y progreso de descarga."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.6/IPTV.apk",
+  "changelog": "Navegacion mas fluida: al moverte por canales y peliculas la fila se desplaza sola para seguir el foco (sin doble toque) y el resaltado es mas agil."
 }
