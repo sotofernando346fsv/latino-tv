@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.1/IPTV.apk",
-  "changelog": "Login mas simple, foco visible, series renovadas, continuar viendo y avance con el control."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.2/IPTV.apk",
+  "changelog": "Canales con logo y favoritos primero, foco mas visible, menu que no se cierra al buscar, mi cuenta, caratula en continuar viendo y mejoras de series."
 }
