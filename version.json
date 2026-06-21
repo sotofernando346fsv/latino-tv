@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.2/IPTV.apk",
-  "changelog": "Canales con logo y favoritos primero, foco mas visible, menu que no se cierra al buscar, mi cuenta, caratula en continuar viendo y mejoras de series."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.5/IPTV.apk",
+  "changelog": "Pantalla completa de canales sin micro-corte ni video fantasma, reproductor de series con capitulo anterior/siguiente y autoplay, continuar serie, Mi cuenta, no suena en segundo plano, confirmacion al salir y progreso de descarga."
 }
