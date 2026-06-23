@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.8/IPTV.apk",
-  "changelog": "Se corrige el video de fondo congelado al salir. Reproductor de pelis con foco blanco visible y menu que no se cierra solo. Series: al elegir temporada el foco salta a los episodios. Logo al abrir la app. La actualizacion ahora descarga sola en una franja chica arriba (no tapa la pantalla)."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.9/IPTV.apk",
+  "changelog": "Arregla el 'Aplicacion no instalada' al actualizar. Ahora, si falta el permiso de instalar apps, la app te lleva sola a activarlo una vez y luego descarga e instala automaticamente."
 }
