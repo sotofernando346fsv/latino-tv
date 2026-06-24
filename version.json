@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v1.9/IPTV.apk",
-  "changelog": "Arregla el 'Aplicacion no instalada' al actualizar. Ahora, si falta el permiso de instalar apps, la app te lleva sola a activarlo una vez y luego descarga e instala automaticamente."
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v2.0/IPTV.apk",
+  "changelog": "Intento de arreglo de la imagen distorsionada que queda al salir de reproducir un canal o pelicula. Tambien hay version liviana de 64 bits."
 }
