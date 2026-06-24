@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v2.0/IPTV.apk",
-  "changelog": "Intento de arreglo de la imagen distorsionada que queda al salir de reproducir un canal o pelicula. Tambien hay version liviana de 64 bits."
+  "versionCode": 12,
+  "versionName": "2.1",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v2.1/IPTV.apk",
+  "changelog": "Estricto: ningun reproductor sigue sonando en segundo plano (se detiene del todo y reanuda al volver). En TV en vivo OK abre el menu sin cambiar canal (flecha abajo entra al menu). La actualizacion instala sola tras dar el permiso."
 }
