@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v2.2/IPTV.apk",
-  "changelog": "TV en vivo: cambia de canal con las flechas izquierda/derecha. Arreglado el foco al elegir canal y al volver del menu. Salir cierra a la primera. La cartelera ya no salta a los lados al bajar. Reproductor de series unido: la vista previa se agranda en el sitio, sin demora. Mas fluidez y mejor sincronia de audio/video al iniciar."
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/sotofernando346fsv/latino-tv/releases/download/v2.4/IPTV.apk",
+  "changelog": "Audio y video mejor sincronizados. Arranque mas suave: carga bien la pantalla de inicio antes de abrir el canal. Video mas fluido en equipos de gama baja. En celular: toque para cambiar de canal y para pantalla completa. Incluye lo de 2.2/2.3: cambio de canal con flechas, foco arreglado, salir a la primera, cartelera sin saltos y reproductor de series unificado."
 }
